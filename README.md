@@ -59,12 +59,9 @@ Performed exploratory data analysis using Pandas and visualized content trends u
 University of Massachusetts Dartmouth, North Dartmouth, MA  
 Expected Dec 2026
 
-**B.Tech in Electronics & Communications Engineering**  
-Teegala Krishna Reddy Engineering College, Hyderabad, India
-
 ---
 
 ## 📫 Connect with me
 
-- 💼 LinkedIn: `paste your LinkedIn link here`
+- 💼 LinkedIn: https://www.linkedin.com/in/bindhu-saahithi-naralashetty-yogendranath/
 - 💻 GitHub: https://github.com/bindhusaahithi
