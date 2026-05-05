@@ -93,6 +93,23 @@
 
 ---
 
+## 📌 Currently Working On
+
+- 🚀 Deploying **Customer Segmentation** as a live Streamlit app
+- 📊 Building my **Kaggle** profile with project notebooks
+- 📝 Writing my first **Medium article** on end-to-end ML model building
+
+---
+
+## 🎯 Goals
+
+- 🤖 Build end-to-end data science and machine learning pipelines
+- ☁️ Strengthen cloud and data engineering skills (AWS · Azure · Databricks)
+- 📊 Work on impactful real-world datasets and open-source contributions
+
+---
+
+
 ## 📊 GitHub Stats
 
 <!-- Stats + Top Languages -->
@@ -114,24 +131,3 @@
 
 ---
 
-## 📌 Currently Working On
-
-- 🚀 Deploying **Customer Segmentation** as a live Streamlit app
-- 📊 Building my **Kaggle** profile with project notebooks
-- 📝 Writing my first **Medium article** on end-to-end ML model building
-
----
-
-## 🎯 Goals
-
-- 🤖 Build end-to-end data science and machine learning pipelines
-- ☁️ Strengthen cloud and data engineering skills (AWS · Azure · Databricks)
-- 📊 Work on impactful real-world datasets and open-source contributions
-
----
-
-<p align="center">⭐ If you find my work helpful, consider giving my repos a star! ⭐</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bindhusaahithi&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
