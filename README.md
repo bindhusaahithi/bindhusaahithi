@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bindhu Saahithi</h1>
-<h3 align="center">Data Science Graduate Student · ML · NLP · SQL · Cloud · EDA</h3>
+<h3 align="center">Data Science Graduate Student · ML · POWERBI · SQL · Cloud · EDA</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bindhu-saahithi-naralashetty-yogendranath/">
