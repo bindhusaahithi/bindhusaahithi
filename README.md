@@ -144,18 +144,13 @@
 
 ## 📊 GitHub Stats
 
-<!-- Stats + Top Languages -->
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bindhusaahithi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bindhusaahithi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
 
-<!-- Streak Stats — like Sneha's -->
+<!-- Streak Stats -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bindhusaahithi&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
-<!-- Contribution Graph — like Sneha's -->
+<!-- Contribution Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bindhusaahithi&theme=tokyo-night&hide_border=true&area=true" />
 </p>
