@@ -73,6 +73,38 @@
 
 ---
 
+## 💼 Experience
+
+### 🔸 Graduate Assistant — Business Analytics
+**University of Massachusetts Dartmouth** · Jan 2026 – May 2026
+
+- Analyzed large datasets using Excel, SQL, and Python to generate actionable insights for academic and administrative decision-making
+- Built interactive dashboards in Power BI/Tableau to track KPIs and performance metrics
+- Automated weekly/monthly reports, **reducing manual reporting time by 30–50%**
+- Conducted EDA to uncover patterns and support research projects
+
+---
+
+### 🔸 Data Analyst Intern — Tredence Analytics
+**India** · Aug 2023 – Sep 2023
+
+- Analyzed structured business datasets using SQL and Python to identify trends and support data-driven decisions
+- Designed interactive **Power BI dashboards** to track KPIs and operational metrics
+- Cleaned and transformed raw datasets to improve data quality and reporting accuracy
+- Collaborated with cross-functional teams to translate business requirements into analytical solutions
+
+---
+
+### 🔸 Data Engineer Intern — Anblicks
+**India** · May 2023 – Jul 2023
+
+- Built **ETL pipelines** using Python and SQL to ingest, transform, and load data from multiple sources
+- Managed cloud-based data storage and processing workflows on **Azure Data Lake**
+- Optimized data pipelines to improve performance and reliability
+- Implemented data validation and monitoring checks to ensure data consistency
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🔹 [Sales Analytics](https://github.com/bindhusaahithi/Sales-Analytics)
